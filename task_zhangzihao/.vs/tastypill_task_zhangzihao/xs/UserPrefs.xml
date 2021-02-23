@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E7C81167-598A-7302-38F1-717745377D76}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../technicaltest_zhangzihao/Assets/Game/gameplay/units/unitsmanager.cs">
+    <Files>
+      <File FileName="Assets/player/ballSpawner.cs" Line="13" Column="6" />
+      <File FileName="Assets/prefabs/ball.cs" Line="12" Column="6" />
+      <File FileName="Assets/Editor/levelEditor.cs" Line="22" Column="5" />
+      <File FileName="../technicaltest_zhangzihao/Assets/Game/gameplay/units/unitsmanager.cs" Line="187" Column="2" />
+      <File FileName="Assets/enemy/enemy_circling.cs" Line="53" Column="45" />
+      <File FileName="Assets/data/levelDataContainer.cs" Line="13" Column="32" />
+      <File FileName="Assets/system/gamemanager.cs" Line="14" Column="34" />
+      <File FileName="Assets/prefabs/generatesplash.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
